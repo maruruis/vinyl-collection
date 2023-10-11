@@ -1,0 +1,52 @@
+#contain
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap:45px;
+}
+
+#contain #all_vinyls
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4px;
+    width: 60%;
+    background-color: rgb(232, 237, 241);
+}
+#card{
+    height: 35vh;
+    
+    width: 50%;
+    border: 3px solid rgb(255, 227, 227);
+}
+#card img{
+    height:26vh ;
+    width: 100%;
+    height: 3;
+}
+#card img:hover{
+  cursor: pointer;
+}
+#container #single_vinyl
+{
+    width: 40%;
+    background-color: rgb(221, 233, 233);
+
+}
+
+#single_blog img{
+    width: 100%;
+}
+
+#deleteBtn
+{
+    display: block;
+    background-color: red;
+    border: none;
+    color: white;
+
+}
+#deleteBtn:hover{
+    cursor: pointer;
+}
