@@ -23,6 +23,7 @@
 ## Support and contact details
     - email :: ianmwng@gmail.com
     - phone :: +254797050698
+    - phone :: +254745302939
 
 ### License
 *Licenced under the MIT Licence
