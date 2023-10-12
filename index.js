@@ -41,7 +41,7 @@ function displaySingleVinyl(id)
 }
 
 
-// delete single blog
+// delete a single vinyl album
 function deleteVinyl(id)
 {
     fetch(`http://localhost:3000/vinyl/${id}`, {
