@@ -5,7 +5,7 @@
     justify-content: space-around;
     gap:45px;
 }
-
+/* used wrap for vinyl to appear in 2 columns */
 #contain #all_vinyls
 {
     display: flex;
