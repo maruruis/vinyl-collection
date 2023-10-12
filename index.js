@@ -53,7 +53,7 @@ function deleteVinyl(id)
     })
 }
 
-// Add blog
+// Add a vynil album
 const addForm = document.getElementById("addForm")
 addForm.addEventListener("submit", function(event){
     event.preventDefault();
@@ -61,7 +61,7 @@ addForm.addEventListener("submit", function(event){
     const title = document.getElementById("title").value;
     const description = document.getElementById("description").value;
     const image_url = document.getElementById("image_url").value;
-
+    
     fetch(`http://localhost:3000/vinyl`, {
         method:"POST",
         body: JSON.stringify({
