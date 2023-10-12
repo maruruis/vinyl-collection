@@ -53,7 +53,7 @@ function deleteVinyl(id)
     })
 }
 
-// Add a vynil album
+// Add a vinyl album
 const addForm = document.getElementById("addForm")
 addForm.addEventListener("submit", function(event){
     event.preventDefault();
