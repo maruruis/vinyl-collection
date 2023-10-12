@@ -83,7 +83,7 @@ addForm.addEventListener("submit", function(event){
     console.log(title, " ", description, " ", image_url)
 })
 
-// edit function
+// edit function on  a vinyl album
 function edit(id){
     fetch(`http://localhost:3000/vinyl/${id}`)
     .then((response)=> response.json())
