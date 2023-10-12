@@ -19,6 +19,7 @@
     - JS
     - HTML and CSS
     - BOOTSRAP
+    - Render
 
 ## Support and contact details
     - email :: ianmwng@gmail.com
