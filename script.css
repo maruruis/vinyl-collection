@@ -38,7 +38,7 @@
 #single_blog img{
     width: 100%;
 }
-
+/* the delete button will appear red for easy visuals */
 #deleteBtn
 {
     display: block;
