@@ -21,7 +21,7 @@ fetch("http://localhost:3000/vinyl", {
 })
 
 
-// display single blog
+// display single vinyl and details
 function displaySingleVinyl(id)
 {
     fetch(`http://localhost:3000/vinyl/${id}`, {
