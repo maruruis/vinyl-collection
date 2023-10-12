@@ -1,0 +1,64 @@
+{
+  "vinyl": [
+    {
+      "id": "1",
+      "title": "Abbey town",
+      "description": "Abbey Road is the eleventh studio album by the English rock band the Beatles, released on 26 September 1969. It is the last album the group recorded, although Let It Be was the last album completed before the band's break-up in April 1970.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Rumours",
+      "description": "Rumours is the eleventh studio album by British-American rock band Fleetwood Mac, released on 4 February 1977 by Warner Bros. Records. Largely recorded in California in 1976, it was produced by the band with Ken Caillat and Richard Dashut.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"
+    },
+    {
+      "id": "3",
+      "title": "Appetite for Destruction",
+      "description": "Appetite for Destruction is the debut studio album by American hard rock band Guns N' Roses, released by Geffen Records on July 21, 1987. ",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Purple Rain",
+      "description": "Purple Rain is the sixth studio album by American singer, songwriter, producer, and multi-instrumentalist Prince. It was released on June 25, 1984, by Warner Bros. Records, as the soundtrack album to the 1984 film of the same name.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Princepurplerain.jpg"
+    },
+    {
+      "id": "5",
+      "title": "London Calling",
+      "description": "London Calling is the third studio album by English rock band the Clash. It was originally released as a double album in the United Kingdom on 14 December 1979 by CBS Records, and in the United States in January 1980 by Epic Records.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Random Access Memories",
+      "description": "Random Access Memories is the fourth and final studio album by the French electronic duo Daft Punk, released on 17 May 2013 through Columbia Records. It pays tribute to late 1970s and early 1980s American music, particularly from Los Angeles.",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/7/76/Random_Access_Memories_capa.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Kind Of Blue",
+      "description": "Kind of Blue is the fifth studio album released on Columbia, and twenty-eighth overall, by American jazz musician, trumpeter, composer, and bandleader Miles Davis.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/MilesDavisKindofBlue.jpg/220px-MilesDavisKindofBlue.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Ten",
+      "description": "Ten is the debut studio album by American rock band Pearl Jam, released on August 27, 1991, through Epic Records. Following the dissolution of their previous band Mother Love Bone in 1990, bassist Jeff Ament and guitarist Stone Gossard began rehearsing with new guitarist Mike McCready.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/PearlJam-Ten2.jpg/220px-PearlJam-Ten2.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Thriller",
+      "description": "Thriller is the sixth studio album by the American singer and songwriter Michael Jackson, released on November 29, 1982, by Epic Records. It was produced by Quincy Jones, who had previously worked with Jackson on his 1979 album Off the Wall. Jackson wanted to create an album where every song was a killer.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMc8YhMcgiC_KdFvKvyWX2wDIBWgNT9PQherkYwI1rXjUdFoxOZHsDXhgGIb242scXmJg&usqp=CAU"
+    },
+    {
+      "id": "10",
+      "title": "Legend",
+      "description": "Legend is a compilation album by Bob Marley and the Wailers. It was released in May 1984 by Island Records.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg"
+    }
+  ]
+}
