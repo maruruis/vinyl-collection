@@ -1,4 +1,4 @@
-fetch("http://localhost:3000/vinyl", {
+fetch("https://vynil-script.onrender.com/vinyl", {
     method:"GET"
 })
 .then((response)=> response.json())
@@ -24,7 +24,7 @@ fetch("http://localhost:3000/vinyl", {
 // display single vinyl and details
 function displaySingleVinyl(id)
 {
-    fetch(`http://localhost:3000/vinyl/${id}`, {
+    fetch(`https://vynil-script.onrender.com/vinyl/${id}`, {
     method:"GET"
     })
     .then((response)=> response.json())
@@ -44,7 +44,7 @@ function displaySingleVinyl(id)
 // delete a single vinyl album
 function deleteVinyl(id)
 {
-    fetch(`http://localhost:3000/vinyl/${id}`, {
+    fetch(`https://vynil-script.onrender.com/vinyl/${id}`, {
     method:"DELETE"
     })
     .then((response)=> response.json())
@@ -62,7 +62,7 @@ addForm.addEventListener("submit", function(event){
     const description = document.getElementById("description").value;
     const image_url = document.getElementById("image_url").value;
     
-    fetch(`http://localhost:3000/vinyl`, {
+    fetch(`https://vynil-script.onrender.com/vinyl`, {
         method:"POST",
         body: JSON.stringify({
             title: title,
@@ -85,7 +85,7 @@ addForm.addEventListener("submit", function(event){
 
 // edit function on  a vinyl album
 function edit(id){
-    fetch(`http://localhost:3000/vinyl/${id}`)
+    fetch(`https://vynil-script.onrender.com/vinyl/${id}`)
     .then((response)=> response.json())
     .then((res)=> {
         console.log(res);
@@ -109,7 +109,7 @@ function update(id){
     const update_description = document.getElementById("update_description").value;
     const update_image_url = document.getElementById("update_image_url").value;
     
-    fetch(`http://localhost:3000/vinyl/${id}`, {
+    fetch(`https://vynil-script.onrender.com/vinyl/${id}`, {
         method:"PATCH",
         body: JSON.stringify({
             title: update_title,
